@@ -1,0 +1,76 @@
+#container {
+  background-color: white;
+  margin: 0;
+  padding: 0;
+}
+
+#container-app {
+  text-align: center;
+  padding: 500px;
+  background-color: hsl(47, 88%, 63%);
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: auto;
+}
+#app{
+  width: 500px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  padding-right: 20px;
+  margin-left: 500px;
+  height: 600px;
+  background-color: white;
+  text-align: center;
+  border-radius: 20px;
+  box-shadow: 10px 10px 5px rgba(0, 0, 0, 1); 
+}
+#app-img{
+  width: 450px;
+  padding: 10px 10px;
+  border-radius: 20px;
+}
+#learning-txt{
+  font-weight: bold;
+  font-family: 'Figtree', sans-serif;
+  font-size: 20px;
+  background-color: hsl(47, 88%, 63%);
+  padding: 5px;
+  width: fit-content;
+  border-radius: 5px;
+  margin-left: 30px;
+}
+#publish-txt{
+  font-family: 'Figtree', sans-serif;
+  font-size: 20px;
+  text-align: left;
+  margin-left: 30px;
+}
+#heading-txt{
+  font-family: 'Figtree', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: left;
+  margin-left: 30px;
+}
+#paragraph-txt{
+  font-family: 'Figtree', sans-serif;
+  font-size: 20px;
+  text-align: left;
+  margin-left: 30px;
+}
+#last-part{
+  text-align: center;
+  display: flex;
+  margin-left: 20px;
+}
+#last-part img{
+  width: 50px;
+  margin-right: 10px;
+  padding: 20px 20px;
+}
+#last-part p{
+    font-family:'Figtree', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 37px;
+}
